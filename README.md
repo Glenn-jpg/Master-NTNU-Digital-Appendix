@@ -1,4 +1,4 @@
-# This is the readme
+# Digital Appendix
 
 ## Videos
 These videoes demonstrate how data generation and the different components in our thesis work
