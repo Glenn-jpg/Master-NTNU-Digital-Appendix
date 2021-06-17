@@ -4,7 +4,7 @@
 These videoes demonstrate how data generation and the different components in our thesis work
 
 ## Scripts
-These scripts illustrate the scripts use for data generation, and using a finished surrogate model
+These scripts illustrate the usage of surrogate models, and has instructions with them. Just download the .zip folder, read the instructions and try out the models!
 
 
 ## Training sets
